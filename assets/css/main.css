@@ -2270,7 +2270,7 @@ color: #fff;
   @media screen and (max-width: 536px) {
 
 			.aboutmebox {
-				    padding: 20px;
+				    padding-left: 200px;
 					margin-left: 250px;
 					display: block;
 					block-size: 300px;
